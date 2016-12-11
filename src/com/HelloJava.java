@@ -2,6 +2,6 @@ package com;
 
 public class HelloJava {
 	public static void main(String[] args) {
-		System.out.println("say helloJava develop");
+		System.out.println("say helloJava myfeature");
 	}
 }
